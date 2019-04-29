@@ -1,0 +1,25 @@
+input[type=file] {
+	width: 100%;
+}
+img {
+	width:100%;
+	height: 300px;
+	margin: 10px;
+}
+body {
+	margin-top: 5%;
+	background-image: url("1.jpg");	
+}
+
+table, th, td {
+  border: 2px solid white;
+}
+
+.white-color{
+	color: white;
+}
+.logo{
+	height: 150px;
+	width: 55%; 
+	margin-left: 25%;
+}
